@@ -3,4 +3,5 @@ cpm/
 cpm_gui/
 include/
 lib/
+build/
 cpm.sln
