@@ -1,1 +1,1 @@
-test=https://www.google.com/
+test=https://github.com/ScriptExec/cpm
