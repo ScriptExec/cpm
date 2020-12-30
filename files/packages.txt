@@ -1,1 +1,1 @@
-test=https://github.com/ScriptExec/cpm
+test=https://github.com/ScriptExec/cpm/archive/main.zip
